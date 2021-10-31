@@ -1,1 +1,1 @@
-# Photoframe indicating importance of water in life.
+# This Photoframe indicates importance of water in life.
