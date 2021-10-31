@@ -136,7 +136,8 @@ body {
 }
 .frame {
   border: ridge 15px #f0e2e2a8;
-  max-width: 500px;
+  width: 600px;
+  min-width: 400px;
   margin: auto;
   border-radius: 30px;
   height: 95vh;
