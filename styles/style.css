@@ -139,16 +139,14 @@ body {
   max-width: 600px;
   margin: auto;
   border-radius: 30px;
-  height: 95vh;
   background-color: #008080;
+  display: flex;
 }
 
 .box {
   box-sizing: border-box;
-  display: inline-block;
-  width: 42%;
-  height: 90%;
-  margin: 5% 0% 5% 5%;
+  width: 40%;
+  margin: 5%;
 }
 
 .container {
@@ -158,17 +156,20 @@ body {
   text-align: center;
   background-color: whitesmoke;
   position: relative;
-  margin-bottom: 55px;
+  margin-bottom: 60px;
   width: 100%;
-  height: 35%;
-}
-
-.largeframe {
-  top: 20%;
 }
 
 img {
   width: 100%;
-  height: 100%;
   border-radius: 10px;
+}
+
+.box-two {
+  margin-top: 20%;
+  margin-bottom: 0%;
+}
+
+.fourth {
+  margin-bottom: 30px;
 }
